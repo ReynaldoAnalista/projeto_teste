@@ -9,6 +9,6 @@ Questão 2 - O mesmo da questão 1.
 
 Questão 3 - Executar o arquivo execute.sql no seu servidor web. Em seguida acessar o arquivo MyUserClass.php e na linha de número 17, alterar as configurações de usuário e senha do seu MySQL. Depois acessar o caminho do projeto.
 
-Questão 4 - Acessar o caminho do projeto. Executar o comando "composer install". Executar o script execute.sql que está na pasta config/schema na pasta do projeto e por ultimo acessar o projeto do seu servidor.
+Questão 4 - Acessar o caminho do projeto. Executar o comando "composer install". Executar o script execute.sql que está na pasta config/schema na pasta do projeto e por ultimo acessar o projeto do seu servidor. Não esqueça de configurar o arquivo config/app.php com o seu usuário e senhas do servidor.
 
 Obs: A questão número 4 foi feita usando o CakePHP 3 na última versão e com alterações do AdminLTE. 
