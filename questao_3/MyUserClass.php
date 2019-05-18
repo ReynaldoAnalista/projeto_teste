@@ -14,7 +14,7 @@ class MyUserClass
 
     public function getUserList()
     {
-        $dbconn = $this->DatabaseConnection('BDusuarios', 'mestrerey', '!Cd78fj56007');
+        $dbconn = $this->DatabaseConnection('BDusuarios', 'root', 'root');
         $results = $dbconn->query("select name from user")->fetchAll();
         return $results;
     }
